@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+iframe{
+    padding-left: 90px;
+}
+
+.video{
+    padding-left: 380px;
+    padding-top: 80px;
+}
+
+.audio{
+    padding-top: 30px;
+    padding-left:290px;
+
+}
+
+.weather{
+    padding-top: 50px;
+    padding-left: 540px;
+}
+
